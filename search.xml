@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[烟花算法在多目标优化中的应用研究]]></title>
+      <url>%2F2017%2F01%2F06%2Falgorithm%2Ffwa-muli-objective%20%2F</url>
+      <content type="text"><![CDATA[在当今社会中，随着人工智能和网络技术的飞速发展，科学技术与其他的多种学科相互交叉，相互渗透和融合，不仅给人们的生活、学习和工作等方面带了便利，而且也从根本上改变了人类的生活和生产。与此同时，随着人类生活空间的不断扩大和对世界认识水平的不断提高，人们又对科学技术的发展提出了更高、更多的要求，期待着更多的研究学者对它进行不断的研究和提高，其中高效的优化技术和智能计算的要求也进一步的迫切需求。 为了提高优化技术水平和智能计算的发展，近些年来有很多的研究学者，特别是在对自然现象方面的研究专家和学者，通过对大自然中很多生活现象和规律进行了大量的研究和探讨，提出了很多的群体智能算法。例如烟花算法，当烟花爆炸后，火花的散落将充满烟花周围的局部空间。我们认为，烟花的爆炸进程可以看作是一个在局部空间内对固定点的搜索，这个空间范围是烟花爆炸后在爆炸中产生的火花。这种群体所表现出来的“智能”，就可以称之为群体智能（Swarm Intelligence，SI）。群体智能中的群体（Swarm）是指“一组相互之间可以进行间接通信的主体，这组主体能够合作进行分布式问题求解”。而所谓群体智能是指“无智能的主体通过合作表现出智能行为的特性”。群体智能在没有集中控制并且不提供全局模型的前提下，为寻找复杂的分布式问题的解决方案提供了基础。在很多专家和研究学者的共同努力下，有很多的群体智能算法得以提出并有了很好的发展和应用。虽然有些智能算法有了成熟的理论基础，但是把它们能够很好的应用到现实生活中还有一定的差距，需要我们共同的参与，进行不断的探索、尝试和研究。当前应用到多目标优化的算法有进化算法、粒子群算法等，与其他群智能算法相比，烟花算法是一种新型的启发式算法，烟花算法是否具更广阔的应用前景以及更大的优化潜能，需要进一步的研究与证实。因此，研究烟花算法在多目标中的应用具有很重大的意义。]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F01%2F06%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+  
+  
+</search>
